@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: /img/logo.png
-heroText: 晶晶最漂亮。
+heroText: 晶晶最漂亮
 tagline: 🚀知识库
 actionText: 开始使用 →
 actionLink: /pages/a2f161/
