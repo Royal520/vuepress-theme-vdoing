@@ -13,7 +13,7 @@ features: # 可选的
   - title: 简洁高效
     details: 以 Markdown 为中心的项目结构
   - title: 沉浸式阅读
-    details: 专为阅读设计的UI，配合多种颜色模式、可关闭的侧边栏和导航栏，带给你一种沉浸式阅读体验
+    details: 专为阅读设计的UI，沉浸式阅读体验
 
 # 文章列表显示方式: detailed 默认，显示详细版文章列表（包括作者、分类、标签、摘要、分页等）| simple => 显示简约版文章列表（仅标题和日期）| none 不显示文章列表
 postList: none
