@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: /img/logo.png
-heroText: 晶晶最漂亮
+heroText: 晶晶最漂亮呀
 tagline: 🚀知识库
 actionText: 开始使用 →
 actionLink: /pages/a2f161/
@@ -10,7 +10,7 @@ bannerBg: none # auto => 网格纹背景(有bodyBgImg时无背景)，默认 | no
 features: # 可选的
   - title: 日志
     details: 日常问题记录
-  - title: 简洁高效
+  - title: Markdown
     details: 以 Markdown 为中心的项目结构
   - title: 沉浸式阅读
     details: 专为阅读设计的UI，沉浸式阅读体验
