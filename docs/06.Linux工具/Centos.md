@@ -1,7 +1,7 @@
 ---
 title:  '支持这个项目'
 date: 2020-05-12 15:09:57
-permalink: /pages/0601
+permalink: /pages/linux/0601
 sidebar: false
 article: false
 ---
