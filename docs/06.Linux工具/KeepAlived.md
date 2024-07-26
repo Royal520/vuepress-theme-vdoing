@@ -1,7 +1,7 @@
 ---
 title:  'keepalived'
 date: 2020-05-12 15:09:57
-permalink: /pages/06/02
+permalink: /pages/0602
 sidebar: false
 article: false
 ---
