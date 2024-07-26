@@ -33,6 +33,7 @@ module.exports = {
           { text: '自动生成front matter', link: '/pages/088c16/' },
           { text: 'Markdown 容器', link: '/pages/d0d7eb/' },
           { text: 'Markdown 中使用组件', link: '/pages/197691/' },
+          { text: 'jenkins使用', link: '/pages/2f675a/' },
           {
             text: '相关文章', items: [
               { text: '使目录栏支持h2~h6标题', link: '/pages/8dfab5/' },
@@ -62,7 +63,7 @@ module.exports = {
       { text: '问答', link: '/pages/9cc27d/' },
       { text: 'Linux', link: '/pages/linux/0601/',items: [
           { text: 'Linux', link: '/pages/linux/0601/'},
-          { text: 'keepalived', link: '/pages/linux/0601/' },
+          { text: 'keepalived', link: '/pages/linux/0602/' },
         ] },
     ],
     sidebarDepth: 2, // 侧边栏显示深度，默认1，最大2（显示到h3标题）

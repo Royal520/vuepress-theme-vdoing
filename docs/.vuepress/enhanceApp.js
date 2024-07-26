@@ -13,6 +13,7 @@ export default ({
   if (!isServer) {
     router.afterEach(() => {
       //check if wwads' fire function was blocked after document is ready with 3s timeout (waiting the ad loading)
+      /*
       docReady(function () {
         setTimeout(function () {
           if (window._AdBlockInit === undefined) {
@@ -20,6 +21,7 @@ export default ({
           }
         }, 3000);
       });
+      */
 
       // 删除事件改为隐藏事件
       setTimeout(() => {
