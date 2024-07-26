@@ -1,0 +1,27 @@
+---
+title:  '支持这个项目'
+date: 2020-05-12 15:09:57
+permalink: /pages/06/01
+sidebar: false
+article: false
+---
+
+### `repotrack`是一个yum包依赖下载工具使用方法如下
+
+```
+# 首先安装yum-utils
+sudo yum install yum-utils
+
+# 使用repotrack下载nginx及其依赖项
+mkdir nginx-packages
+repotrack -p nginx-packages nginx
+
+# 接下来，将nginx-packages目录复制到离线机器上
+# 在离线机器上安装nginx
+cd nginx-packages
+sudo rpm -Uvh --force --nodeps *.rpm
+```
+
+
+## 致谢
+感谢给予支持的朋友，您的支持是我前进的动力 🎉
