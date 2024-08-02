@@ -61,8 +61,8 @@ module.exports = {
       { text: '资源', link: '/pages/db78e2/' },
       { text: '案例', link: '/pages/5d571c/' },
       { text: '问答', link: '/pages/9cc27d/' },
-      { text: 'Linux', link: '/pages/linux/0601/',items: [
-          { text: 'Linux', link: '/pages/linux/0601/'},
+      { text: 'Linux', link: '/pages/linux/centos/',items: [
+          { text: 'Linux', link: '/pages/linux/centos/'},
           { text: 'KeepAlived', link: '/pages/linux/keepalived/' },
           { text: 'docker', link: '/pages/linux/docker/' },
         ] },
