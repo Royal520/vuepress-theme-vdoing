@@ -63,7 +63,7 @@ module.exports = {
       { text: '问答', link: '/pages/9cc27d/' },
       { text: 'Linux', link: '/pages/linux/0601/',items: [
           { text: 'Linux', link: '/pages/linux/0601/'},
-          { text: 'keepalived', link: '/pages/linux/0602/' },
+          { text: 'KeepAlived', link: '/pages/linux/keepalived/' },
           { text: 'docker', link: '/pages/linux/docker/' },
         ] },
     ],
